@@ -43,11 +43,13 @@ npm test
 
 ## Demonstration Video
 
-[Link to Demo](https://drive.google.com/file/d/1l51KK8d-nUsx8tgMeqDLkscUmLZQCN5u/view)  
+[Link to Demo](https://drive.google.com/file/d/1lQYsXGC9oXwJmVz9ToFfNO5SKMXZExuc/view)  
 
 ## Examples of Generated Logos
 
-![screenshot](/images/)  
+![screenshot](/examples/Circle-example.svg)
+![screenshot](/examples/Square-example.svg)
+![screenshot](/examples/Triangle-example.svg) 
 
 ## Links
 [Yuleth Aceves Github](https://github.com/YulethAceves)
